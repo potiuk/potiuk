@@ -1,4 +1,4 @@
-Independent Open-Source contributor and Advisor
+Independent Open-Source Contributor and Advisor
 
 Committer and PMC Member of [Apache Airflow](https://airflow.apache.org/)
 
