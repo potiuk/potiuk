@@ -1,4 +1,6 @@
-Big fan of Open-Source and especially [The Apache Software Foundation](https://www.apache.org/)
+Independent Open-Source contributor and Advisor
+Committer and PMC Member of [Apache Airflow](https://airflow.apache.org/)
+Member of [The Apache Software Foundation](https://www.apache.org/)
 
 Watch the [Trillions and Trillions Served movie](https://www.youtube.com/watch?v=JUt2nb0mgwg&feature=youtu.be)
 
