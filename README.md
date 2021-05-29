@@ -11,6 +11,6 @@ About me:
 - 😄 Pronouns: He
 - ⚡ Fun fact: Sang in a choir for almost 30 years.
 
-You can sponsor my open-source work via https://github.com/sponsors/potiuk
+You can sponsor my open-source work via [Github Sponsors](https://github.com/sponsors/potiuk)
 
 Watch the [Trillions and Trillions Served movie](https://www.youtube.com/watch?v=JUt2nb0mgwg&feature=youtu.be)
