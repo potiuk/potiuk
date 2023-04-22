@@ -9,8 +9,7 @@ About me:
 - 💡 The best decision ever - quit being CTO, go back to an engineering role
 - 🌱 I’m currently learning to poke people more or less gently into doing great stuff
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sang in a choir for almost 30 years
+- 🆓 Affiliations: Member of the [Apache Software Foundation](https://www.apache.org/)
+- 🎤 Fun fact: Sang in a choir for almost 30 years
 
 You can sponsor my open-source work via [Github Sponsors](https://github.com/sponsors/potiuk)
-
-Watch the [Trillions and Trillions Served movie](https://www.youtube.com/watch?v=JUt2nb0mgwg&feature=youtu.be)
