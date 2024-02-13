@@ -4,6 +4,8 @@ Committer and PMC Member of [Apache Airflow](https://airflow.apache.org/)
 
 Member of [The Apache Software Foundation](https://www.apache.org/)
 
+Member of the Security Commitee of the Apache Software Foundation
+
 About me:
 
 - 💡 The best decision ever - quit being CTO, go back to an engineering role
