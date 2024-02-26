@@ -14,4 +14,4 @@ About me:
 - 🆓 Affiliations: Member of the [Apache Software Foundation](https://www.apache.org/)
 - 🎤 Fun fact: Sang in a choir for almost 30 years
 
-You can sponsor my open-source work via [Github Sponsors](https://github.com/sponsors/potiuk)
+You can sponsor my open-source work via [GitHub Sponsors](https://github.com/sponsors/potiuk)
